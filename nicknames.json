@@ -1,0 +1,14 @@
+{
+  "players": [
+    {
+      "username": "Bizon_56",
+      "access_level": "admin",
+      "user_id": 2225682233
+    },
+    {
+      "username": "Tochno_neAlexey", 
+      "access_level": "vip",
+      "user_id": 8148725640
+    }
+  ]
+}
