@@ -2,13 +2,18 @@
   "players": [
     {
       "username": "Bizon_56",
-      "access_level": "admin",
+      "access_level": "owner",
       "user_id": 2225682233
     },
     {
       "username": "Tochno_neAlexey", 
       "access_level": "vip",
       "user_id": 8148725640
+    },
+    {
+      "username": "ueneom", 
+      "access_level": "admin",
+      "user_id": 965499209
     }
   ]
 }
